@@ -1,6 +1,8 @@
-# Hi there 👋
-# 杜少雄 一个落后于时代的人
-<center>123</center>
+# Hi 👋
+# 我是杜少雄 
+# 一个大三的计科狗 
+# 信奉非0即1的黑白世界 
+<img align="right" alt="GIF" src="https://github.com/lexsaints/lexsaints/blob/master/snail_linux.jpg" />
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
