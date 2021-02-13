@@ -1,4 +1,4 @@
-#  👋  Hi我是杜少雄 一个大三的计科狗  日常颠倒在0和1的世界
+#  👋  Hi我是杜少雄 一个大三的计科狗  日常折腾在0和1的世界
 
 <a target="_blank" href="http://shaoxiongdu.top"><img align="right" alt="我的技术博客" title="我的技术博客" src="https://github.com/ShaoxiongDu/ShaoxiongDu/blob/main/blogQR.png" /> </a>
 
