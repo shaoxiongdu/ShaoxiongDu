@@ -3,7 +3,8 @@
 <!--
 **ShaoxiongDu/ShaoxiongDu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 杜少雄 一个落后于时代的人
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
