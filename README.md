@@ -1,7 +1,6 @@
-### Hi there 👋
-
+# Hi there 👋
 # 杜少雄 一个落后于时代的人
-
+<center>123</center>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
