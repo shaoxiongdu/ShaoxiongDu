@@ -14,7 +14,7 @@
 
 <h4 align='right'> 但它一直在那里，总会在那里</h4>
 
-<h2> 📞联系我 </h2>
+<h2 align="right"> 📞联系我 </h2>
 
-<h3> - Email: ShaoxiongDu@126.com </h3>
-<h3> - QQ: 740593369 </h3>
+<h3 align="right"> - Email: ShaoxiongDu@126.com </h3>
+<h3 align="right"> - QQ: 740593369 </h3>
