@@ -6,7 +6,7 @@
 
 <h1> - 💛 左边 博客 点击/扫码! </h1>
 
-<h1> - 💙 博客地址：http://shaoxiongdu.top </h1>
+<h2> - 💙 博客地址：http://shaoxiongdu.top </h2>
 
 <h3>  每个人都有属于自己的一片森林 </h3>
 
