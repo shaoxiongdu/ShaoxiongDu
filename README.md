@@ -1,6 +1,6 @@
 <h1>👋  杜少雄 一个大三的计科狗  日常折腾在0和1的世界</h1>
 
-<a target="_blank" href="http://shaoxiongdu.top"><img align="lefit" alt="我的技术博客" title="我的技术博客" src="https://github.com/ShaoxiongDu/ShaoxiongDu/blob/main/blogQR.png" /> </a>
+<a target="_blank" href="http://shaoxiongdu.top"><img align="left" alt="我的技术博客" title="我的技术博客" src="https://github.com/ShaoxiongDu/ShaoxiongDu/blob/main/blogQR.png" /> </a>
 
 
 
