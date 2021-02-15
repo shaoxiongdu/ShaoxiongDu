@@ -2,7 +2,7 @@
 
 <a target="_blank" href="http://shaoxiongdu.top"><img align="right" alt="我的技术博客" title="我的技术博客" src="https://github.com/ShaoxiongDu/ShaoxiongDu/blob/main/blogQR.png" /> </a>
 
-## - 💖 右边 个人技术博客 点击扫码均可访问!
+### - 💖 右边 个人技术博客 点击扫码均可访问!
 
 ### - 💬 技术博客地址：http://shaoxiongdu.top
 ### - 🏆 JavaWeb开发者 --- Java是世界上最好的编程语言! 
