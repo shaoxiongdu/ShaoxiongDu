@@ -2,6 +2,8 @@
 
 <a target="_blank" href="http://shaoxiongdu.top"><img align="right" alt="我的技术博客" title="我的技术博客" src="https://github.com/ShaoxiongDu/ShaoxiongDu/blob/main/blogQR.png" /> </a>
 
+<p align='right'>
+
 <h2 align='right'> - 💖 右边 博客 点击跳转/扫码! </h2>
 
 <h2 align='right'> - 💬 博客地址：http://shaoxiongdu.top </h2>
@@ -19,3 +21,4 @@
 <h3> - Email: ShaoxiongDu@126.com </h3>
   <h3> - QQ: 740593369 </h3>
 
+</p>
