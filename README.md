@@ -16,5 +16,5 @@
 
 <h1> 📞联系我 </h1>
 
-<h2> - Email: ShaoxiongDu@126.com </h2>
-<h2> - QQ: 740593369 </h2>
+<h3> - Email: ShaoxiongDu@126.com </h3>
+<h3> - QQ: 740593369 </h3>
