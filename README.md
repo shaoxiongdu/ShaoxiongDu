@@ -1,6 +1,6 @@
 ## 💚 我是杜少雄 一个即将秃顶的大三计科狗 💜 作品：<a href="https://www.shaoxiongdu.top" target="_blank">个人博客</a> | <a href="https://github.com/ShaoxiongDu/ShaoxiongDu_Blog" target="_blank">求星星 ✨</a> </h2>
  
- <img src="https://github.com/ShaoxiongDu/ShaoxiongDu/blob/main/CodeKey.jpg"/>
+ <img height="130px" src="https://github.com/ShaoxiongDu/ShaoxiongDu/blob/main/CodeKey.jpg"/>
 
 ## 数据统计 ✨
 
