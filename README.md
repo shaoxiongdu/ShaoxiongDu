@@ -4,4 +4,4 @@
 
 [![ShaoxiongDuStats](https://github-readme-stats.vercel.app/api?custom_title=统计&username=shaoxiongdu&show_icons=true&locale=cn&cache_seconds=1800&include_all_commits=true)](https://github.com/ShaoxiongDu)
 
-[![ShaoxiongDuLanguage](https://github-readme-stats.vercel.app/api/top-langs/?custom_title=分析&username=shaoxiongdu&&locale=cn)](https://github.com/ShaoxiongDu)
+[![ShaoxiongDuLanguage](https://github-readme-stats.vercel.app/api/top-langs/?custom_title=分析&username=shaoxiongdu&&locale=cn&&langs_count=10)](https://github.com/ShaoxiongDu)
