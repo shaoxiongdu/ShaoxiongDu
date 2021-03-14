@@ -5,5 +5,6 @@
 [![ShaoxiongDuStats](https://github-readme-stats.vercel.app/api?username=shaoxiongdu&show_icons=true&locale=cn&cache_seconds=1800&include_all_commits=true)](https://github.com/ShaoxiongDu)
 
 
-[![ShaoxiongDuStats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaoxiongdu)](https://github.com/anuraghazra/github-readme-stats)]
-(https://github.com/ShaoxiongDu)
+[![ShaoxiongDuStats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaoxiongdu&show_icons=true&locale=cn&cache_seconds=1800)]
+(https://github.com/anuraghazra/github-readme-stats)
+
