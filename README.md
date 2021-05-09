@@ -4,5 +4,5 @@
 
 ## 我的开源项目：
 ### * 🔥[blog](https://github.com/shaoxiongdu/blog)：一个基于SpringBoot的简洁优雅的个人博客
-### * 🔥[ComputerNetworks](https://github.com/shaoxiongdu/ComputerNetworks)🔥: 程序员工作必备的《计算机网络》知识点【详解+PPT】教程
-### * 🔥[DataStructureForJava](https://github.com/shaoxiongdu/DataStructureForJava)🔥: 用Java实现的《数据结构与算法》
+### * 🔥[ComputerNetworks](https://github.com/shaoxiongdu/ComputerNetworks): 程序员工作必备的《计算机网络》知识点【详解+PPT】教程
+### * 🔥[DataStructureForJava](https://github.com/shaoxiongdu/DataStructureForJava): 用Java实现的《数据结构与算法》
