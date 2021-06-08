@@ -1,4 +1,4 @@
- ## hi 我是杜少雄同学。 公众号【Github推荐】持续分享好玩有趣又沙雕的开源项目！
+ ## hi 我是杜少雄同学。 扫码关注【Github推荐】持续分享好玩、有趣、又沙雕的开源项目!
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=shaoxiongdu">
   <img align="center" src="https://gitee.com/ShaoxiongDu/imageBed/raw/master/GithubQR.jpg" />
 </a>
