@@ -8,7 +8,7 @@
 </a>
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=shaoxiongdu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shaoxiongdu&layout=compact" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=shaoxiongdu&repo=blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaoxiongdu&repo=blog" />
-</a>
+</a> 
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=shaoxiongdu">
+  <img align="center" src="src="http://www.gitee.com/ShaoxiongDu/imageBed/raw/master/GithubQR.jpg"" />
+</a> 
