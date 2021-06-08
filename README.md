@@ -4,7 +4,7 @@
 
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaoxiongdu&hide_title=true&hide_border=false&line_height=20&theme=flag-india&locale=cn" 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaoxiongdu&hide_title=true&hide_border=false&line_height=20&theme=flag-india&locale=cn" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shaoxiongdu&layout=compact" />
 
 
