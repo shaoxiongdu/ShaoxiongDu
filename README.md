@@ -6,6 +6,4 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shaoxiongdu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?compact=layout&username=shaoxiongdu&hide_title=true&hide_border=false&line_height=20&theme=flag-india&locale=cn" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=shaoxiongdu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shaoxiongdu&layout=compact" />
-</a>
+
