@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif" width="408" height="318" />
 
-### 你好 我是 <a href="http://www.shaoxiongdu.cn" target="_blank">杜少雄</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,一名Java开发工程师。很高兴在这里见到你！ &nbsp;![](https://visitor-badge.glitch.me/badge?page_id=shaoxiongdu.shaoxiongdu)
+### 你好 我是 <a href="http://www.shaoxiongdu.cn" target="_blank">杜少雄</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,一名Java开发工程师。 ![](https://visitor-badge.glitch.me/badge?page_id=shaoxiongdu.shaoxiongdu)
 
 ### - 👨🏻‍💻 我目前正在做一些很酷的事情;
 - 📝 经常在我的<a href="http://www.shaoxiongdu.cn" target="_blank">个人技术博客</a>上写文章；
