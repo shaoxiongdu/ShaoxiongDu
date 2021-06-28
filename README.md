@@ -7,11 +7,10 @@
 作为一名软件工程师，我喜欢用我对细节的执着关注，我对创造改变世界的事物的明确热爱。这就是为什么我喜欢创造与众不同的东西。
 
 
-- 👨🏻‍💻  我目前正在做一些很酷的事情;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
-- 💬 Ask me about anything, I am happy to help;
-- 📝 我目前为止经常在我的<a href="http://www.shaoxiongdu.cn" target="_blank">个人技术博客</a>上写文章；
-- 📫 联系我:  <a target="_blank" title="给我发送邮件: email@shaoxiongdu.cn" href="mailto:email@shaoxiongdu.cn" >email@shaoxiongdu.cn</a>
+- 👨🏻‍💻 我目前正在做一些很酷的事情;
+- 📝 经常在我的<a href="http://www.shaoxiongdu.cn" target="_blank">个人技术博客</a>上写文章；
+- 🚀 目前正在<a href="https://leetcode-cn.com/u/shaoxiongdu" target="_blank">leetcode</a>上学习数据结构和算法；
+- 📫 有任何问题都可以问我，我很乐意提供帮助 <a target="_blank" title="给我发送邮件: email@shaoxiongdu.cn" href="mailto:email@shaoxiongdu.cn" >email@shaoxiongdu.cn</a>；
 
 </br>
 
