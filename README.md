@@ -6,7 +6,7 @@
 
 作为一名软件工程师，我喜欢用我对细节的执着关注，我对创造改变世界的事物的明确热爱。这就是为什么我喜欢创造与众不同的东西。
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
