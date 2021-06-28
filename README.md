@@ -2,13 +2,8 @@
 
 ### 很高兴在这里见到你！ &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=shaoxiongdu.shaoxiongdu)
 
-我是一名全栈软件工程师。喜欢编程、旅行。
-
-作为一名软件工程师，我喜欢用我对细节的执着关注，我对创造改变世界的事物的明确热爱。这就是为什么我喜欢创造与众不同的东西。
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif" width="408" height="318" />
   
-
 - 👨🏻‍💻  我目前正在做一些很酷的事情;
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
 - 💬 Ask me about anything, I am happy to help;
