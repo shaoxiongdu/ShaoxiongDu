@@ -7,11 +7,11 @@
 ### - 👨🏻‍💻 我目前正在做一些很酷的事情;
 - 📝 经常在我的<a href="http://www.shaoxiongdu.cn" target="_blank">个人技术博客</a>上写文章；
 - 🚀 目前正在<a href="https://leetcode-cn.com/u/shaoxiongdu" target="_blank">leetcode</a>上学习数据结构和算法；
-- 📫 有问题问我，很乐意为你提供帮助 <a target="_blank" title="给我发送邮件: email@shaoxiongdu.cn" href="mailto:email@shaoxiongdu.cn" >email@shaoxiongdu.cn</a>；
+- 📫 有问题问我，很乐意为你提供帮助 <a target="_blank" title="给我发送邮件: email@shaoxiongdu.cn" href="mailto:email@shaoxiongdu.cn" >email@shaoxiongdu.cn</a>
 
 </br>
 
-### 📈 My GitHub Stats:
+### 📈 我的GitHub数据：
 
 <a href="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=shaoxiongdu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?hide_title=true&cache_seconds=1800&username=shaoxiongdu&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&locale=cn&line_height=20" />
