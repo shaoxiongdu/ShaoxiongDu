@@ -9,17 +9,13 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif" width="408" height="318" />
   
 
-**Talking about Personal Stuffs:**
-
-- 👨🏻‍💻 I’m currently working on something cool;
+- 👨🏻‍💻  我目前正在做一些很酷的事情;
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- 📫 How to reach me: gapur.kassym@gmail.com;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+- 📝 我目前为止经常在我的<a href="http://www.shaoxiongdu.cn" target="_blank">个人技术博客</a>上写文章；
+- 📫 联系我:  <a target="_blank" title="给我发送邮件: email@shaoxiongdu.cn" href="mailto:email@shaoxiongdu.cn" >email@shaoxiongdu.cn</a>
 
 </br>
-
 
 📈 **My GitHub Stats:**
 
