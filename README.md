@@ -6,7 +6,7 @@
  - 📝 经常在我的<a href="http://www.shaoxiongdu.cn" target="_blank">个人技术博客</a>上写文章；
  - 🚀 目前正在<a href="https://leetcode-cn.com/u/shaoxiongdu" target="_blank">leetcode</a>上学习数据结构和算法；
  - 🎈 有问题联系我，很乐意为你提供帮助！
- - 📫邮箱： <a target="_blank" href="mailto:email@shaoxiongdu.cn" >email@shaoxiongdu.cn</a>
+ - 📫 我的邮箱：<a target="_blank" href="mailto:email@shaoxiongdu.cn" >email@shaoxiongdu.cn</a>
 
 <br>
 
