@@ -8,7 +8,6 @@
  - 🎈 有问题联系我，很乐意为你提供帮助！
  - 📫 我的邮箱：<a target="_blank" href="mailto:email@shaoxiongdu.cn" >email@shaoxiongdu.cn</a>
 
-<br>
 
 ### 📈 我的GitHub数据：
 <a href="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=shaoxiongdu">
