@@ -1,7 +1,8 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif" width="397" height="310" />
 
 ### 你好 我是 <a href="http://www.shaoxiongdu.cn" target="_blank">杜少雄</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,一名Java开发工程师。 ![](https://visitor-badge.glitch.me/badge?page_id=shaoxiongdu.shaoxiongdu)
-作为一名软件开发人员，我喜欢用痴迷的态度对待细节，我毫不含糊地热爱制造改变世界的东西。
+作为一名软件开发人员，我喜欢用痴迷的态度对待细节，
+我毫不含糊地热爱制造改变世界的东西。
 
 ### - 👨🏻‍💻 我目前正在做一些很酷的事情;
  - 📝 经常在我的<a href="http://www.shaoxiongdu.cn" target="_blank">个人技术博客</a>上写文章；
