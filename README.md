@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif"  width="384" height="300" />
 
-- ### 你好 我是 <a href="http://www.shaoxiongdu.cn" target="_blank">杜少雄</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,一名Java开发工程师。![](https://visitor-badge.glitch.me/badge?page_id=shaoxiongdu.shaoxiongdu)
+- ### 您好 我是 <a href="http://www.shaoxiongdu.cn" target="_blank">杜少雄</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,一名Java开发工程师。
 
   - 作为一名软件开发人员
   - 我喜欢用痴迷的态度对待细节
