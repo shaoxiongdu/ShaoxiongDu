@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif"  width="384" height="300" />
 
-- ### 你好 我是 <a href="http://www.shaoxiongdu.cn" target="_blank">杜少雄</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,一名Java开发工程师。 ![](https://visitor-badge.glitch.me/badge?page_id=shaoxiongdu.shaoxiongdu)
+- ### 你好 我是 <a href="http://www.shaoxiongdu.cn" target="_blank">杜少雄</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,一名Java开发工程师。![](https://visitor-badge.glitch.me/badge?page_id=shaoxiongdu.shaoxiongdu)
 
   - 作为一名软件开发人员
   - 我喜欢用痴迷的态度对待细节
@@ -10,8 +10,6 @@
   - 📝 经常在我的<a href="http://www.shaoxiongdu.cn" target="_blank">个人技术博客</a>上写文章；
   - 🚀 目前正在<a href="https://leetcode-cn.com/u/shaoxiongdu" target="_blank">leetcode</a>上学习数据结构和算法；
   - 📫 我的邮箱：<a target="_blank" href="mailto:email@shaoxiongdu.cn" >email@shaoxiongdu.cn</a>
-
-<br>
 
 - ### 📈 我的GitHub数据：
 <a href="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=shaoxiongdu">
