@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif" width="397" height="310" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif" height="310" />
 
 ### 你好 我是 <a href="http://www.shaoxiongdu.cn" target="_blank">杜少雄</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,一名Java开发工程师。 ![](https://visitor-badge.glitch.me/badge?page_id=shaoxiongdu.shaoxiongdu)
 作为一名软件开发人员
