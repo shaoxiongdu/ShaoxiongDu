@@ -1,11 +1,6 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif"  width="384" height="300" />
 
 - ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">您好 我是 <a href="http://www.shaoxiongdu.cn" target="_blank">杜少雄</a>，一名Java开发工程师。
-
-  - 作为一名软件开发人员，
-  - 我喜欢用痴迷的态度对待细节，
-  - 我毫不含糊地热爱制造改变世界的东西。
-
 - ### 👨🏻‍💻 我目前正在做一些很酷的事情;
   - 📝 经常在我的<a href="http://www.shaoxiongdu.cn" target="_blank">个人技术博客</a>上写文章；
   - 🚀 目前正在<a href="https://leetcode-cn.com/u/shaoxiongdu" target="_blank">leetcode</a>上学习数据结构和算法；
@@ -18,4 +13,3 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=shaoxiongdu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=shaoxiongdu&hide_title=true&hide_border=false&line_height=20&theme=flag-india&locale=cn" />
 </a>
-
