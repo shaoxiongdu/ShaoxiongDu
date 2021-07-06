@@ -2,6 +2,7 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">您好 我是 <a href="http://www.shaoxiongdu.cn" target="_blank">杜少雄</a>，一名Java开发工程师。
 <hr>
+
 ### 我目前正在做一些很酷的事情:
 
 - 📝 经常在我的<a href="http://www.shaoxiongdu.cn" target="_blank">个人技术博客</a>上写文章；
