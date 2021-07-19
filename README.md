@@ -3,13 +3,13 @@
 #### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">您好 我是 <a href="http://www.shaoxiongdu.cn" target="_blank">杜少雄</a>，一只向上爬的蜗牛🐌
 <hr>
 
-#### ❤️我目前正在做一些很酷的事情:
+#### ❤️在做一些的事情:
 
 - 📝 经常在我的<a href="http://www.shaoxiongdu.cn" target="_blank">个人博客</a>上写技术文章；
-- 🚀 目前正在<a href="https://leetcode-cn.com/u/shaoxiongdu" target="_blank">leetcode</a>上学习数据结构和算法；
+- 🚀 目前正在<a href="https://leetcode-cn.com/u/shaoxiongdu" target="_blank">leetcode</a>上学习；
 - 📫 我的邮箱：<a target="_blank" href="mailto:email@shaoxiongdu.cn" >email@shaoxiongdu.cn；</a>
 
-#### 📈 我的GitHub数据：
+#### 📈 GitHub数据：
 <a href="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=shaoxiongdu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?hide_title=true&cache_seconds=1800&username=shaoxiongdu&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&locale=cn&line_height=20" />
 </a>
