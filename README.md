@@ -6,7 +6,7 @@
 
 ####  📝 <a href="http://github.com/shaoxiongdu/blog" target="_blank">blog</a>  : 基 于 Spring Boot 简 洁 优 雅 的 <a href="http://www.shaoxiongdu.cn" target="_blank"> 个 人 博 客</a> 
 ####  🚀 <a href="http://github.com/shaoxiongdu/JVMStudy" target="_blank">JVMStudy</a> : JVM 底 层 原 理 解 析 <a href="jvmstudy.top" target="_blank">- 在 线 站 点</a> 
-####  📫 <a href="http://github.com/shaoxiongdu/search" target="_blank">cxy1024</a> : 程 序 员 专 属 的 轻 量 简 洁 的 搜 索 主 页 <a href="cxy1024.top" target="_blank"> - 主页： cxy1024.top</a> 
+####  📫 <a href="http://github.com/shaoxiongdu/search" target="_blank">cxy1024</a> : 程 序 员 专 属 的 轻 量 简 洁 的 搜 索 主 页 <a href="cxy1024.top" target="_blank"> cxy1024.top</a> 
 
 ### 📈 GitHub数据：
 <a href="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=shaoxiongdu">
