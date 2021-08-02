@@ -1,5 +1,7 @@
 <img align="right" alt="Writing Code" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif"  width="350" height="250" />
 
+## 你好，我是<a href="http://www.shaoxiongdu.cn" target="_blank">杜少雄</a>，一个即将毕业的准Java程序员。
+
 ### ❤️我的项目:
 
 - 📝 SpringBoot-blog : 基 于 Spring Boot 简 洁 优 雅 的 <a href="http://www.shaoxiongdu.cn" target="_blank"> 个 人 博 客</a> 
