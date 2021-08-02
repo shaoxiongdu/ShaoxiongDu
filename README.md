@@ -5,7 +5,7 @@
 ### ❤️我的开源项目:
 
 ####  📝 <a href="http://www.shaoxiongdu.cn" target="_blank"> blog </a> : 基 于 Spring Boot 简 洁 优 雅 的 个 人 博 客
-####  🚀 <a href="https://jvmstudy.top" target="_blank"> JVMStudy</a>  : JVM 底 层 原 理 解 析 在 线 站 点
+####  🚀 <a href="https://jvmstudy.top" target="_blank"> JVMStudy</a>  : JVM 底 层 原 理 解 析
 ####  📫 <a href="https://cxy1024.top" target="_blank">cxy1024</a> : 程 序 员 专 属 的 轻 量 简 洁 的 搜 索 主 页 ： <a href="https://cxy1024.top" target="_blank">cxy1024.top</a> 
 
 ### 📈 GitHub数据：
