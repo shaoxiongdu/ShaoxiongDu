@@ -3,11 +3,18 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">您好 我是<a href="http://www.shaoxiongdu.cn" target="_blank">杜少雄</a>，一个写Java的程序员。
 <hr>
 
+
+### ✏️我的项目:
+
+- 👓 SpringBoot-blog : 一个基于SpringBoot简洁优雅的<a href="http://www.shaoxiongdu.cn" target="_blank">个人博客</a>;
+- 📚 JVMStudy : JVM底层原理解析 <a href="jvmstudy.top" target="_blank">在线站点</a>; <a href="jvmstudy.top" target="_blank">开源地址</a>; 
+- 🚩 cxy1024: 一个程序员专属的轻量简洁的搜索主页 <a href="cxy1024.top" target="_blank">cxy1024.top</a>;
+
 ### ❤️在做一些的事情:
 
-- 📝 经常在我的<a href="http://www.shaoxiongdu.cn" target="_blank">个人博客</a>上写技术文章；
-- 🚀 目前正在<a href="https://leetcode-cn.com/u/shaoxiongdu" target="_blank">leetcode</a>上学习；
-- 📫 我的邮箱：<a target="_blank" href="mailto:email@shaoxiongdu.cn" >email@shaoxiongdu.cn；</a>
+- 📝 经常在我的<a href="http://www.shaoxiongdu.cn" target="_blank">个人博客</a>上写技术文章;
+- 🚀 目前正在<a href="https://leetcode-cn.com/u/shaoxiongdu" target="_blank">leetcode</a>上学习;
+- 📫 我的邮箱：<a target="_blank" href="mailto:email@shaoxiongdu.cn" >email@shaoxiongdu.cn</a>;
 
 ### 📈 GitHub数据：
 <a href="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=shaoxiongdu">
