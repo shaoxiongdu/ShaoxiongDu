@@ -1,6 +1,6 @@
 <img align="right" alt="Writing Code" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif"  width="350" height="250" />
 
-## 你好，我是<a href="http://www.shaoxiongdu.cn" target="_blank">杜少雄</a>，一个即将毕业的Java程序员。
+## 你好，我是<a href="http://www.shaoxiongdu.cn" target="_blank">杜少雄</a>，一只向上爬的蜗牛🐌。
 
 ### ❤️我的开源项目:
 
