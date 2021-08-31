@@ -1,14 +1,8 @@
-<!-- <img align="right" alt="Writing Code" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif"  width="350" height="250" /> -->
+<img align="right" alt="Writing Code" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif"  width="350" height="250" />
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shaoxiongdu&layout=compact">
 
 ## 你好，我是<a href="shaoxiongdu.cn" target="_blank">杜少雄</a>，一只向上爬的蜗牛🐌。
-
-### ❤️我的开源项目:
-
-####  📝 <a href="https://www.github.com/shaoxiongdu/blog" target="_blank"> blog </a> : 基 于 Spring Boot 简 洁 优 雅 的 个 人 博 客
-####  🚀 <a href="https://jvmstudy.top" target="_blank"> JVMStudy</a>  : JVM 底 层 原 理 解 析
-####  📫 <a href="https://cxy1024.top" target="_blank">cxy1024</a> : 程 序 员 专 属 的 轻 量 简 洁 的 搜 索 主 页 ： <a href="https://cxy1024.top" target="_blank">cxy1024.top</a> 
 
 ### 📈 GitHub数据：
 <a href="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=shaoxiongdu">
