@@ -1,4 +1,4 @@
-<img align="right" alt="Writing Code" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif"  width="350" height="250" />
+<img align="right" alt="Writing Code" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif"  width="320" height="220" />
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shaoxiongdu&layout=compact">
 
