@@ -1,6 +1,6 @@
 ## 你好，我是<a href="shaoxiongdu.cn" target="_blank">杜少雄</a>，一只向上爬的蜗牛🐌。
 
-<img align="right" alt="Writing Code" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif"  width="340" height="280" />
+<img align="right" alt="Writing Code" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif"  width="338" height="280" />
 
 ### 📈本周数据:
 
