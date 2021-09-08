@@ -1,6 +1,6 @@
 ## 你好，我是<a href="shaoxiongdu.cn" target="_blank">杜少雄</a>，一只向上爬的蜗牛🐌。
 
-<img align="right" alt="Writing Code" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif"  width="300" height="180" />
+<img align="right" alt="Writing Code" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif"  width="300" height="220" />
 
 ### 一个对一切前沿知识保持充分好奇的程序猿。
 
