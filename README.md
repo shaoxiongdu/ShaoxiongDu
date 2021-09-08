@@ -1,11 +1,4 @@
-## 你好，我是<a href="shaoxiongdu.cn" target="_blank">杜少雄</a>，一只向上爬的蜗牛🐌。
-
-<img align="right" alt="Writing Code" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif"  width="300" height="220" />
-
-### 一个对一切前沿知识保持充分好奇的程序猿。
-
-### 会一些三脚猫的功夫，互联网上的板砖工人。
-
+## 你好，我是<a href="shaoxiongdu.cn" target="_blank">杜少雄</a>，一只向上爬的蜗牛🐌。会一些三脚猫的功夫，互联网上的板砖工人。
 
 ### 🚩GitHub数据:
 
