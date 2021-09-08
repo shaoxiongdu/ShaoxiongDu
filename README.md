@@ -2,12 +2,9 @@
 
 <img align="right" alt="Writing Code" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif"  width="300" height="180" />
 
-### hello
+### 一个对一切前沿知识保持充分好奇的程序猿。
 
- 一个对一切前沿知识保持充分好奇的程序猿。
-
- 会一些三脚猫的功夫，在互联网板砖的工人。
-
+### 会一些三脚猫的功夫，互联网上的板砖工人。
 
 
 ### 🚩GitHub数据:
