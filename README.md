@@ -2,9 +2,8 @@
 
 <img align="right" alt="Writing Code" src="https://raw.githubusercontent.com/shaoxiongdu/ShaoxiongDu/main/coding.gif"  width="338" height="320" />
 
-### 📈本周数据:
+> 一个对一切前沿知识保持充分好奇的程序猿，会一些三脚猫的功夫，在互联网板砖的工人。
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shaoxiongdu&layout=compact">
 
 ### 🚩GitHub数据:
 
