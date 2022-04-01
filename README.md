@@ -3,6 +3,9 @@
  
  目前在北京理想汽车企业系统部负责开发内部的一些系统。欢迎加我微信勾搭！
  <img src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=shaoxiongdu&hide_border=false&show_icons=true&hide_title=true&width=450&include_all_commits=true&count_private=true&theme=buefy&locale=cn&line_hight=20" />
+ 
+## 关注公众号【[挖掘开源的价值](https://mp.weixin.qq.com/s?__biz=MzU2ODQ4ODY4MA==&mid=2247484539&idx=1&sn=d8c09ecca205401e6a8cf3c75c2e8926&chksm=fc8c63fccbfbeaea39cd44a6cfe5e7464799ecfeea6944401645bf1b10fe72909021783cf52b&token=893306194&lang=zh_CN#rd)】
+每天都会分享一个好玩有趣，有沙雕的开源项目。你也可以在这里加我微信好友，围观我的朋友圈![挖掘开源的价值](https://images-1301128659.cos.ap-beijing.myqcloud.com/image-20210820144130666.png)
   
 
 
