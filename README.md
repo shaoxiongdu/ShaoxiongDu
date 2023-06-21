@@ -3,7 +3,7 @@
 ### Hi there I'm ShaoxiongDu. 👋
 
 👨‍🎓 **About:** 24 Years old Developer from China.  
-👨‍💻 **Languages:** Java, Python, Kotlin, Vue, Android
-🚴‍️ **Hobbies:** Cycling, Coding, Open-Source.
+👨‍💻 **Languages:** Java, Python, Kotlin, Vue, Android.
+🏢 **Research:** Web Crawler , Data Analysis Reverse Security.
 
 ![adlered](https://count.getloli.com/get/@shaoxiongdu)
