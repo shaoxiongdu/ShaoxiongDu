@@ -5,6 +5,4 @@
 👨‍🎓 **About:** 24 Years old Developer from China.  
 👨‍💻 **Languages:** Java, Python, Kotlin, Vue, Android.
 
-🏢 **Research:** Web Crawler , Data Analysis.
-
 ![adlered](https://count.getloli.com/get/@shaoxiongdu)
