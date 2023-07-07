@@ -2,7 +2,7 @@
 
 ### Hi there I'm ShaoxiongDu. 👋
 
-👨‍🎓 **About:** 24 Years old Developer from China.  
-👨‍💻 **Languages:** Java、Python、go、Kotlin、Vue、Android...
+👨‍🎓 24 Years old Developer from China.  
+👨‍💻 Java、Python、go、Kotlin、Vue、Android...
 
 ![adlered](https://count.getloli.com/get/@shaoxiongdu)
