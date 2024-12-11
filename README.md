@@ -9,6 +9,6 @@
 
 大学毕业在理想汽车、阿里、花径教育等公司工作过。
 
-Java、Python、go、Kotlin、Vue、Android、Rust...  什么都会一点，什么都不精通。
+C/C++、Java、Python、go、前端、Kotlin、Vue、Android、Rust...  什么都会一点，什么都不精通。
 
 如果有任何技术或者非技术等问题，网站下方有我的联系方式，欢迎联系我。
